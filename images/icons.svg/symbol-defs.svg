@@ -1,0 +1,9 @@
+<svg aria-hidden="true" style="position:absolute;width:0;height:0" xmlns="http://www.w3.org/2000/svg" overflow="hidden">
+	<defs>
+		<symbol id="icon-Group-1" viewBox="0 0 27 32">
+			<path fill="none" stroke="var(--color1, #58a9a5)" stroke-linecap="round" stroke-width="4.8302" d="M2.415 16.906v12.679h12.679" />
+			<path fill="none" stroke="var(--color1, #58a9a5)" stroke-linecap="round" stroke-width="4.8302" d="M24.755 16.906v12.679H12.076M24.755 16.906l-7.331-7.567-7.16-6.923" />
+			<path fill="none" stroke="var(--color1, #58a9a5)" stroke-linecap="round" stroke-width="4.8302" d="m2.415 16.906 7.331-7.567 7.16-6.923" />
+		</symbol>
+	</defs>
+</svg>
