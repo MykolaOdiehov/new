@@ -128,4 +128,17 @@ header {
   font-weight: 800;
   font-size: 70px;
   line-height: 105px;
+}
+
+.section-hero__inforvation-text {
+  width: 743px;
+  height: 180px;
+  left: 166px;
+  top: 683px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 45px;
+  color: #404242;
 }/*# sourceMappingURL=main.css.map */

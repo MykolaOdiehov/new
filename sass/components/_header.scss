@@ -41,8 +41,9 @@ header {
     margin-top: auto;
     margin-bottom: auto;
     width: 160px;
-    
+
 }
+
 .header__navigation-list>li {
     height: 38px;
     font-family: 'Poppins';
@@ -54,11 +55,12 @@ header {
     margin-top: auto;
     margin-bottom: auto;
     width: 160px;
-    
+
 }
+
 .header__navigation-list>li>p {
     margin: auto;
-    
+
 }
 
 .header__navigation-list>li:hover {
@@ -85,7 +87,7 @@ header {
     margin-left: auto;
     margin-right: auto;
     left: 0;
-     
+
     display: block;
     width: 100%;
     height: 5px;
@@ -111,15 +113,30 @@ header {
     color: #FFFFFF;
 }
 
-.section-hero__text{
+.section-hero__text {
     width: 674px;
     height: 315px;
     left: 166px;
     top: 318px;
-    
+
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 800;
     font-size: 70px;
     line-height: 105px;
+}
+
+.section-hero__inforvation-text {
+    width: 743px;
+    height: 180px;
+    left: 166px;
+    top: 683px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 45px;
+
+    color: #404242;
 }
